@@ -1,0 +1,6 @@
+name = "d3d_registry"
+uuid = "6a8b0731-4b1f-4ca5-95d6-a5e67c3c59ec"
+repo = "https://github.com/DIII-D/D3DRegistry.jl"
+description = "Julia registry for DIII-D"
+
+[packages]
