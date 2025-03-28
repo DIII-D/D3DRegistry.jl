@@ -5,3 +5,4 @@ description = "Julia registry for DIII-D"
 
 [packages]
 50b852fb-755b-4f1c-b4e6-649ec8fe8475 = { name = "FusionSpecies", path = "F/FusionSpecies" }
+cc0975e7-7da7-4057-a477-77a0fed3e7b5 = { name = "FusMatEroYields", path = "F/FusMatEroYields" }
