@@ -10,3 +10,6 @@ RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 
 ["1.1.1 - 1"]
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+
+["1.1.2 - 1"]
+CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
